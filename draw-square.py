@@ -25,5 +25,6 @@ def draw_art():
 	tom = turtle.Turtle()
 	tom.color("green")
 	draw_square(tom)
-  	window.exitonclick()
+	
+	window.exitonclick()
 draw_art()
